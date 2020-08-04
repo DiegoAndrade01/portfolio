@@ -2,6 +2,14 @@
 
 # Diego Andrade - Portifolio
 
+Portifolio em construção
+
+Escrever texto
+
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/DiegoAndrade)
+
+
 
 # [Project 1: Análise de Vendas](https://github.com/DiegoAndradeDs/Projects/Vendas_Produtos_e_Representantes) 
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
