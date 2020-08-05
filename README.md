@@ -14,7 +14,7 @@ Escrever texto
 
 ## [Projeto 1: Recursos Humanos - Recrutamento interno](https://github.com/DiegoAndradeDS/Projects/HR_promocao) 
 
-Neste projeto criei um modelo de Machine Learning para identificar qual funcionário deverá receber uma promoção. Esse modelo visa substitui um processo seletivo para promoção dos funcionários visando melhorar a transição do funcionário entre os cargos e também reduzir o tempo necessário para avaliar a promoção.
+Neste projeto criei um modelo de Machine Learning para identificar qual funcionário deverá receber uma promoção. Esse modelo visa substituir um processo seletivo para promoção dos funcionários visando melhorar a transição do funcionário entre os cargos e também reduzir o tempo necessário para avaliar a promoção.
 
 
 
