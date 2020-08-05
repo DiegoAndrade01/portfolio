@@ -12,10 +12,11 @@ Escrever texto
 # Projetos
 
 
-## [Project 1: Recursos Humanos: Modelo de análise de promoção](https://github.com/DiegoAndradeDS/Projects/HR_promocao) 
-For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities. 
+## [Project 1: Recursos Humanos - Modelo de Análise de Promoção](https://github.com/DiegoAndradeDS/Projects/HR_promocao) 
 
-I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
+Neste projeto criei um modelo de Machine Learning para identificar qual funcionário deverá receber uma promoção. Esse modelo visa substitui um processo seletivo para promoção dos funcionários visando melhorar a transição do funcionário entre os cargos e também reduzir o tempo necessário para avaliar a promoção.
+
+
 
 ![](/imagens/matrix_results.png)
 
