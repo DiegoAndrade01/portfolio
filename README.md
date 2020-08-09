@@ -21,7 +21,7 @@ Neste projeto criei um modelo de Machine Learning para identificar qual funcion√
 ![](/imagens/matrix_results.png)
 
 
-[link de test](diegoandradeds.github.io/portfolio/imagens/)
+[link de test](/imagens/)
 
 
 ## [Project 2: An√°lise de Vendas](https://github.com/DiegoAndradeDs/Projects/Vendas_Produtos_e_Representantes) 
