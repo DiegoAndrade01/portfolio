@@ -1,6 +1,6 @@
 ![](/imagens/banner.png)
 
-# Diego Andrade - Portifolio
+# Diego Andrade - Portfolio
 
 Portifolio em construção
 
