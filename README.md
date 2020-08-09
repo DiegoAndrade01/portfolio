@@ -20,6 +20,10 @@ Neste projeto criei um modelo de Machine Learning para identificar qual funcion√
 
 ![](/imagens/matrix_results.png)
 
+
+[link de test](https://github.com/DiegoAndradeDS/portfolio/imagens)
+
+
 ## [Project 2: An√°lise de Vendas](https://github.com/DiegoAndradeDs/Projects/Vendas_Produtos_e_Representantes) 
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
 * Scraped over 1000 job descriptions from glassdoor using python and selenium
